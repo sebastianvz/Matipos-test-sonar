@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj": {}
+    "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj": {}
   },
   "projects": {
-    "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj": {
+    "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj",
+        "projectUniqueName": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj",
         "projectName": "Matipos-test-sonar",
-        "projectPath": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj",
+        "projectPath": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar.csproj",
         "packagesPath": "/Users/davidestebanmonsalvecarmona/.nuget/packages/",
-        "outputPath": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/Matipos-test-sonar/obj/",
+        "outputPath": "/Users/davidestebanmonsalvecarmona/Documents/code/Matipos-test-sonar/Matipos-test-sonar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidestebanmonsalvecarmona/.nuget/NuGet/NuGet.Config"
